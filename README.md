@@ -1,5 +1,6 @@
 # ghmark675
 ## Posts
+- #19 [Fcitx5 Rime中文输入法安装](articles/19.md) 2025-10-25 `blog` `package` `linux`
 - #17 [TLP - Optimize Linux Laptop Battery Life](articles/17.md) 2025-10-25 `blog` `package` `linux`
 - #14 [linux字体配置](articles/14.md) 2025-10-24 `blog` `config` `linux`
 - #13 [git基本配置](articles/13.md) 2025-10-24 `blog`
