@@ -1,5 +1,6 @@
 # ghmark675
 ## Posts
+- #17 [TLP - Optimize Linux Laptop Battery Life](articles/17.md) 2025-10-25 `blog` `package` `linux`
 - #14 [linux字体配置](articles/14.md) 2025-10-24 `blog` `config` `linux`
 - #13 [git基本配置](articles/13.md) 2025-10-24 `blog`
 - #11 [yt-dlp安装-免费下载youtube视频](articles/11.md) 2025-10-24 `blog` `package`
